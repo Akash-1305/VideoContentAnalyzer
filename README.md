@@ -105,3 +105,9 @@ Before you begin, ensure you have the following installed:
 - **Security:** For a production environment, implement proper authentication, file size limits, and security measures.
 - **Advanced Analysis:** Integrate more features like object detection, scene change analysis, or emotional tone detection to provide richer video insights.
 - **Streamlined Architecture:** Consider using a message queue (like RabbitMQ or Redis) for long-running tasks like video processing to prevent timeouts and improve scalability.
+
+---
+
+## Woring Video link:
+
+- https://drive.google.com/drive/u/2/folders/1WeNugJYIcim25PwyVCD1JedjvjJffesb
