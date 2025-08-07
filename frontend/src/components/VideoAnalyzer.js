@@ -136,7 +136,7 @@ function VideoAnalyzer() {
         <div className="content-card">
           {/* Left Column: Upload and Analysis */}
           <div className="analysis-section">
-            <h2 className="section-title">🎥 Analyze Video</h2>
+            <h2 className="section-title">Analyze Video</h2>
 
             {/* Upload Form */}
             <form onSubmit={handleSubmit} className="upload-form">
