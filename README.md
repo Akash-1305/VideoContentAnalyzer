@@ -21,7 +21,7 @@ Before you begin, ensure you have the following installed:
 - **Node.js and npm:** For the React frontend.
 - **Python 3.8+:** For the Flask backend.
 - **ffmpeg:** This is crucial for extracting audio from video files. You can download it from the [official website](https://ffmpeg.org/download.html) or use a package manager like `brew` on macOS or `chocolatey` on Windows.
-- **A Gemini 1.5 Flash API Key:** You'll need an API key from Google to use the Gemini model. You can get one from the [Google AI Studio](https://aistudio.google.com/app/apikey).
+- **A Gemini 1.5 Flash API Key or any Gemini model API Key:** You'll need an API key from Google to use the Gemini model. You can get one from the [Google AI Studio](https://aistudio.google.com/app/apikey).
 
 ---
 
