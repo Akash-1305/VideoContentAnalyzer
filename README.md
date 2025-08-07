@@ -49,15 +49,15 @@ Before you begin, ensure you have the following installed:
 3.  **Install the required Python packages:**
 
     ```bash
-    pip install Flask Flask-Cors google-generativeai python-ffmpeg werkzeug
+    pip install Flask Flask-Cors google-generativeai python-ffmpeg werkzeug ffmpeg-python
     ```
 
 4.  **Set your Gemini API Key:**
-    Replace `"*********************"` in the `app.py` file with your actual API key, or set it as an environment variable.
+    Replace "Enter_Your_API_Key" in the `app.py` file with your actual API key, or set it as an environment variable.
 
     ```python
     # In backend/app.py
-    configure(api_key=os.environ.get("GEMINI_API_KEY", "YOUR_GEMINI_API_KEY"))
+    configure(api_key=os.environ.get("GEMINI_API_KEY", "Enter_Your_API_Key"))
     ```
 
 5.  **Run the Flask backend:**
