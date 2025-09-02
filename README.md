@@ -107,3 +107,23 @@ Before you begin, ensure you have the following installed:
 - **Streamlined Architecture:** Consider using a message queue (like RabbitMQ or Redis) for long-running tasks like video processing to prevent timeouts and improve scalability.
 
 ---
+
+## Contributions
+
+Contributions are welcome! Please **fork the repository** and create a **pull request**.
+
+---
+
+## Issues & Support
+
+If you encounter any issues, please check the **GitHub Issues** section for existing solutions or report a new issue.
+
+For further assistance, feel free to reach out via email:  **[akash20050513@gmail.com](mailto:akash20050513@gmail.com)**.
+
+We appreciate feedback and suggestions to improve the platform!
+
+---
+
+## Acknowledgments
+
+Thanks to the creators of **React, Bootstrap, Python, Flask, Google Generative AI and moviepy** for making this project possible!
