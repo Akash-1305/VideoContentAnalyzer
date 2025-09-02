@@ -10,7 +10,7 @@ from PIL import Image
 from google.generativeai import configure, GenerativeModel
 
 # Configure Gemini
-configure(api_key=os.environ.get("GEMINI_API_KEY", "Enter_Your_API_Key"))
+configure(api_key=os.environ.get("GEMINI_API_KEY", "YOUR_API_KEY_HERE"))
 
 # Flask setup
 app = Flask(__name__)

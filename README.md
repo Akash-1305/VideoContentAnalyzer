@@ -53,11 +53,11 @@ Before you begin, ensure you have the following installed:
     ```
 
 4.  **Set your Gemini API Key:**
-    Replace "Enter_Your_API_Key" in the `app.py` file with your actual API key, or set it as an environment variable.
+    Replace "YOUR_API_KEY_HERE" in the `app.py` file with your actual API key, or set it as an environment variable.
 
     ```python
     # In backend/app.py
-    configure(api_key=os.environ.get("GEMINI_API_KEY", "Enter_Your_API_Key"))
+    configure(api_key=os.environ.get("GEMINI_API_KEY", "YOUR_API_KEY_HERE"))
     ```
 
 5.  **Run the Flask backend:**
@@ -118,7 +118,7 @@ Contributions are welcome! Please **fork the repository** and create a **pull re
 
 If you encounter any issues, please check the **GitHub Issues** section for existing solutions or report a new issue.
 
-For further assistance, feel free to reach out via email:  **[akash20050513@gmail.com](mailto:akash20050513@gmail.com)**.
+For further assistance, feel free to reach out via email: **[akash20050513@gmail.com](mailto:akash20050513@gmail.com)**.
 
 We appreciate feedback and suggestions to improve the platform!
 
